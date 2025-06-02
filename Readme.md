@@ -1,0 +1,1 @@
+# This is Python project for clicking dynamic photo click using IP web cam
