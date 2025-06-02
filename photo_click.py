@@ -9,8 +9,8 @@ cap=cv2.VideoCapture("http://192.168.1.17:8080/video")
 # cap=cv2.VideoCapture(0)
 # 
 
-if(not os.path.exists("Saved Images")):
-    os.mkdir("Saved Images")
+if(not os.path.exists("Images")):
+    os.mkdir("Images")
 
   
 
