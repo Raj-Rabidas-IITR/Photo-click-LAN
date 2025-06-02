@@ -18,7 +18,7 @@ if(not os.path.exists("Images")):
 def save_img():
     count=0
     count+=1
-    cv2.imwrite(f"images/{len(os.listdir('images02')) + count}.jpg", frame)
+    cv2.imwrite(f"Images/{len(os.listdir('images02')) + count}.jpg", frame)
     print("Image saved succesfully")
     time.sleep(3)
     
