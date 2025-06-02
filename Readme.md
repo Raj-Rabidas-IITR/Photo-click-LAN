@@ -1,1 +1,2 @@
-# This is Python project for clicking dynamic photo click using IP web cam
+# Photo-click-LAN
+Python based LAN (Local Area Network) photo clicking application , made using Opencv
